@@ -1,0 +1,1 @@
+![image]("/images/visual/cnn_training_graph.png")
