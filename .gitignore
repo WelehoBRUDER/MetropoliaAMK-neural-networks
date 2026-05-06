@@ -4,3 +4,5 @@ datasets/glove.6B.300d.txt
 datasets/glove.6B.50d.txt
 datasets/mushroom
 datasets/mushroom_augmented
+datasets/mushroom_split
+datasets/mushroom_augmented_old
